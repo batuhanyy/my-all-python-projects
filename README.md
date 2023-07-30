@@ -1,2 +1,2 @@
 # my-all-python-projects
-all these writed by me
+all this code was written by me as an amateur.
